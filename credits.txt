@@ -1,0 +1,4 @@
+# The 5zig Mod - Credits
+developer: 5zig
+special_thanks: Oreon, Niki, TheLeftover, pizzachief, Kico
+translators: Niki, ThrusterRecord, Elphios, Fearr, Maart, ElSarraHD

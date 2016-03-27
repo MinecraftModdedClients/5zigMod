@@ -1,0 +1,1 @@
+class ChatComponentBuilder$1 {}

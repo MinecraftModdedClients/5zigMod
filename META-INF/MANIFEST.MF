@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+TweakOrder: -900
+TweakClass: eu.the5zig.mod.asm.ClassTweaker
+Main-Class: eu.the5zig.mod.installer.Frame
+

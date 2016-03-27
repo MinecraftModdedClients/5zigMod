@@ -1,0 +1,1 @@
+class Variables$4 {}

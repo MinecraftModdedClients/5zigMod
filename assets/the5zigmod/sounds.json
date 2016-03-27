@@ -1,0 +1,12 @@
+{
+  "chat.message.receive": {
+    "sounds": [
+        "the5zigmod:chat/message_receive"
+    ]
+  },
+  "chat.message.send": {
+    "sounds": [
+      "the5zigmod:chat/message_send"
+    ]
+  }
+}
